@@ -1,0 +1,6 @@
+{
+  "name": "alumnus-backbone-client",
+  "dependencies": {
+    "express": "latest"
+  }
+}
